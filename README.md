@@ -35,7 +35,6 @@ The evaluation metrics we are going to use are the accuracy score metric, recall
 
 
 ![image](https://user-images.githubusercontent.com/69953585/110892354-ea1b2280-8319-11eb-883f-0a084af117de.png)
-![image](https://user-images.githubusercontent.com/69953585/110892440-0cad3b80-831a-11eb-8c9d-bf64c2eedc62.png)
 ![image](https://user-images.githubusercontent.com/69953585/110892459-16cf3a00-831a-11eb-8476-ea137979416d.png)
 ![image](https://user-images.githubusercontent.com/69953585/110892470-1df64800-831a-11eb-835f-d84b3ef133ab.png)
 ![image](https://user-images.githubusercontent.com/69953585/110892476-23539280-831a-11eb-9ba5-94e00125c677.png)
@@ -43,6 +42,7 @@ The evaluation metrics we are going to use are the accuracy score metric, recall
 ![image](https://user-images.githubusercontent.com/69953585/110892502-2fd7eb00-831a-11eb-96ef-552d5e23c729.png)
 ![image](https://user-images.githubusercontent.com/69953585/110892520-39615300-831a-11eb-9203-147b8edee6ce.png)
 ![image](https://user-images.githubusercontent.com/69953585/110892539-3fefca80-831a-11eb-976c-98f858ffc6fa.png)
+![image](https://user-images.githubusercontent.com/69953585/110892440-0cad3b80-831a-11eb-8c9d-bf64c2eedc62.png)
 
 
 
