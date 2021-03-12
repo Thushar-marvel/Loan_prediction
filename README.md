@@ -10,7 +10,7 @@ To automate this process, they have provided a dataset to identify the customers
 
 
 # Dataset
-Dataset set is downloaded from analytics vidya hackathon.The data set consist of 
+Dataset set is downloaded from analytics vidya hackathon.The data set consist of payment,loan approval,loan amount, credit history of every loan applicants.
 
 # libraries
 The packages are Pandas to load data and to do data analysis, Numpy to work with arrays, scikit-learn is used for building the model and evaluating it,
