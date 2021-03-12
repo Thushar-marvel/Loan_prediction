@@ -32,7 +32,7 @@ Logistic regression,LDA,Decision tree, random forest, bagging,Ada boost,gradient
 We evaluated our built models using the evaluation metrics provided by the scikit-learn package. 
 The evaluation metrics we are going to use are the accuracy score metric, recall,roc_curve, and finally the confusion matrix.
 
-# Rou curve
+# ROC curve
 
 ![image](https://user-images.githubusercontent.com/69953585/110892354-ea1b2280-8319-11eb-883f-0a084af117de.png)
 ![image](https://user-images.githubusercontent.com/69953585/110892459-16cf3a00-831a-11eb-8476-ea137979416d.png)
